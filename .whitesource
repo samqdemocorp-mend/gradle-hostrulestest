@@ -1,0 +1,13 @@
+{
+  "settingsInheritedFrom": "samqdemocorp-mend/whitesource-config@main",
+  "hostRules": [
+    {
+    "matchHost": "http://52.52.158.123:8081/repository/maven-releases/",
+    "hostType": "maven",
+    "username": "admin",
+    "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf/a2mhfyIu0VfLPP1ZO4klpAjOzF8Dno3pdDu2p3EwnTZVUTeyyyE8vdkv2pViFlvmFHumNAtDL+p0q/KsPopJywhb0+GKBkBG9x/TCviPUjiOoU7Y0+gYIOKOQ7Lqgf3zxfKXjAc7uZwjZZhtvC0Nckzn6wAhM+xg919b+ag98xpgnnNsenM/6JanGpwAxeM0c8GAxEeur4iYODowH3VouEEPo8ElsCXAeKusUNsanxmIBSfkcEk+HlTinPA6uMcUQNyOGjxvgWwwayxH9SWN6jcFjgTEFC8EOYj698tBf/cgGS2hgBO09RrqV6TaVBsRv7syVsxAxbQXXG4GiqiqQ9JhAbd3QwDo2h2ysH5Z2JIJf8+ZguszI9Gl6cVKYba5oDkTgPW/wmj2BchgdfYB8akdGAfxsMhF0CxNbRT2BA/zBnbeTp6T+MUJo6mJzAHTOpr0oKiShBrJzYPlMLpgyz7X2w"
+        }
+    }
+]
+}
