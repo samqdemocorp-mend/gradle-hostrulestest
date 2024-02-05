@@ -6,11 +6,11 @@
       "hostType": "maven",
       "username": "samq-ws",
       "encrypted": {
-          "password": "wcBMA8xOaBJvzJNbAQf/VkxTRoDtTvxe9VKjMME2ryiZzSmNPLsZL4yQSC7+5h+ns1Mx3NVYg+Ptl4sCgQGJvmJGWUoeUTTQjvBp4Su0OJQkFy5c6GXnGDtwot2KPgElNrUGrcBR325hQSGOe1xd2rIiXAjtDMYrgfWQkM/n18JS2B46B7yhmr5cFPLZjBtYje6k5rAD97Ox4dKPe2mCh2nNewEBB+em4sWWllkTmWBxVOqbFEXN6BzLOpMhLpypLUnnv4oP/f7/LdDa6j2quQdwnfmZwHT/0s0peCSwo0bN9WB+O7pW3g5zwDzyoasdclD/HDbBA3jYfRAbdChAqOlWXf2ksC6QUY/JmrhZctKAATfGSwzHR4f47TopdIiZtnUEEI4LNJckEC5BcSq/nT0DQrkFTIVVP2QBPxAPAb9TVUKFtrQvtPMzqdGse1luNU4EY+VzELlF1pUZNQVzMt9FGeJPdUKmKWoqgxhyrz7oWnYQopaQP0IIAEN+2/0tkBYrxHRT0hg1qpbHKPgmBAY"
+          "token": "wcBMA8xOaBJvzJNbAQf/VkxTRoDtTvxe9VKjMME2ryiZzSmNPLsZL4yQSC7+5h+ns1Mx3NVYg+Ptl4sCgQGJvmJGWUoeUTTQjvBp4Su0OJQkFy5c6GXnGDtwot2KPgElNrUGrcBR325hQSGOe1xd2rIiXAjtDMYrgfWQkM/n18JS2B46B7yhmr5cFPLZjBtYje6k5rAD97Ox4dKPe2mCh2nNewEBB+em4sWWllkTmWBxVOqbFEXN6BzLOpMhLpypLUnnv4oP/f7/LdDa6j2quQdwnfmZwHT/0s0peCSwo0bN9WB+O7pW3g5zwDzyoasdclD/HDbBA3jYfRAbdChAqOlWXf2ksC6QUY/JmrhZctKAATfGSwzHR4f47TopdIiZtnUEEI4LNJckEC5BcSq/nT0DQrkFTIVVP2QBPxAPAb9TVUKFtrQvtPMzqdGse1luNU4EY+VzELlF1pUZNQVzMt9FGeJPdUKmKWoqgxhyrz7oWnYQopaQP0IIAEN+2/0tkBYrxHRT0hg1qpbHKPgmBAY"
           },
       "envVariablesMapping": {
           "userName": "GITHUB_USERNAME",
-          "password": "GITHUB_PASSWORD"
+          "token": "GITHUB_PASSWORD"
       }
     }
 ]
