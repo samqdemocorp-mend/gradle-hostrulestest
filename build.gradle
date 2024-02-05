@@ -11,8 +11,7 @@ sourceCompatibility = '1.8'
 repositories {
 	mavenCentral()
 	maven { 
-		url "http://52.52.158.123:8081/repository/maven-releases/" 
-		allowInsecureProtocol = true
+		url "https://maven.pkg.github.com/samqdemocorp-mend/gradle-hostrulestest"
                 credentials {
       	          username = System.getenv('NEXUS_USERNAME')
                   password = System.getenv('NEXUS_PASSWORD')

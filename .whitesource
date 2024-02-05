@@ -2,12 +2,12 @@
   "settingsInheritedFrom": "samqdemocorp-mend/whitesource-config@main",
   "hostRules": [
     {
-    "matchHost": "http://52.52.158.123:8081/repository/maven-releases/",
-    "hostType": "maven",
-    "username": "admin",
-    "encrypted": {
-        "token": "wcBMA8xOaBJvzJNbAQf/a2mhfyIu0VfLPP1ZO4klpAjOzF8Dno3pdDu2p3EwnTZVUTeyyyE8vdkv2pViFlvmFHumNAtDL+p0q/KsPopJywhb0+GKBkBG9x/TCviPUjiOoU7Y0+gYIOKOQ7Lqgf3zxfKXjAc7uZwjZZhtvC0Nckzn6wAhM+xg919b+ag98xpgnnNsenM/6JanGpwAxeM0c8GAxEeur4iYODowH3VouEEPo8ElsCXAeKusUNsanxmIBSfkcEk+HlTinPA6uMcUQNyOGjxvgWwwayxH9SWN6jcFjgTEFC8EOYj698tBf/cgGS2hgBO09RrqV6TaVBsRv7syVsxAxbQXXG4GiqiqQ9JhAbd3QwDo2h2ysH5Z2JIJf8+ZguszI9Gl6cVKYba5oDkTgPW/wmj2BchgdfYB8akdGAfxsMhF0CxNbRT2BA/zBnbeTp6T+MUJo6mJzAHTOpr0oKiShBrJzYPlMLpgyz7X2w"
-        }
+      "matchHost": "https://maven.pkg.github.com/samqdemocorp-mend/gradle-hostrulestest",
+      "hostType": "maven",
+      "username": "samq-ws",
+      "encrypted": {
+          "token": "wcBMA8xOaBJvzJNbAQf/VkxTRoDtTvxe9VKjMME2ryiZzSmNPLsZL4yQSC7+5h+ns1Mx3NVYg+Ptl4sCgQGJvmJGWUoeUTTQjvBp4Su0OJQkFy5c6GXnGDtwot2KPgElNrUGrcBR325hQSGOe1xd2rIiXAjtDMYrgfWQkM/n18JS2B46B7yhmr5cFPLZjBtYje6k5rAD97Ox4dKPe2mCh2nNewEBB+em4sWWllkTmWBxVOqbFEXN6BzLOpMhLpypLUnnv4oP/f7/LdDa6j2quQdwnfmZwHT/0s0peCSwo0bN9WB+O7pW3g5zwDzyoasdclD/HDbBA3jYfRAbdChAqOlWXf2ksC6QUY/JmrhZctKAATfGSwzHR4f47TopdIiZtnUEEI4LNJckEC5BcSq/nT0DQrkFTIVVP2QBPxAPAb9TVUKFtrQvtPMzqdGse1luNU4EY+VzELlF1pUZNQVzMt9FGeJPdUKmKWoqgxhyrz7oWnYQopaQP0IIAEN+2/0tkBYrxHRT0hg1qpbHKPgmBAY"
+          }
     }
 ]
 }
