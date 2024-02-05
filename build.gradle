@@ -10,13 +10,13 @@ sourceCompatibility = '1.8'
 
 repositories {
 	mavenCentral()
-	//maven { 
-	//	url "https://maven.pkg.github.com/samqdemocorp-mend/gradle-hostrulestest"
-    //            credentials {
-    //  	          username = System.getenv('NEXUS_USERNAME')
-    //              password = System.getenv('NEXUS_PASSWORD')
-    //        }
-	//}
+	maven { 
+		url "https://maven.pkg.github.com/samqdemocorp-mend/gradle-hostrulestest"
+                credentials {
+      	          username = System.getenv('GITHUB_USERNAME')
+                  password = System.getenv('GITHUB_PASSWORD')
+            }
+	}
 }
 
 dependencies {
