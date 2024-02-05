@@ -8,4 +8,8 @@ FROM openjdk:8u181-jdk-alpine
 EXPOSE 8080
 RUN mkdir /app
 COPY --from=builder /home/gradle/src/build/libs/*.jar /app/spring-boot-application.jar
+# Mend traceability labels
+LABEL io.mend.image.dockerfile.path=main/Dockerfile
+LABEL org.opencontainers.image.source=https://github.com/samqdemocorp-mend/gradle-hostrulestest
+
 CMD ["java", "-jar", "/app/spring-boot-application.jar"]
